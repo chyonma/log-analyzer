@@ -3,7 +3,7 @@
 A small but practical log analysis tool I built while wrapping up my Python phase.
 The goal wasn’t to create something huge — just a clean utility that actually feels like a real backend support tool.
 
-## 🚀 What it does
+## What it does
 
 * Reads a log file from the command line
 * Counts INFO, WARNING, and ERROR entries
@@ -11,14 +11,14 @@ The goal wasn’t to create something huge — just a clean utility that actuall
 * Identifies possible error spikes (consecutive errors)
 * Generates a simple `report.txt` summary automatically
 
-## 🛠️ Built With
+## Built With
 
 * Python
 * argparse (CLI arguments)
 * collections.Counter (pattern detection)
 * basic file handling
 
-## ▶️ How to Run
+## How to Run
 
 Example command:
 
@@ -28,7 +28,7 @@ Optional filter:
 
 python log_analyzer.py --file test.log --level ERROR
 
-## ⚙️ Features
+## Features
 
 * CLI-based workflow
 * Log level filtering
@@ -36,12 +36,12 @@ python log_analyzer.py --file test.log --level ERROR
 * Simple spike detection logic
 * Report file generation
 
-## 🧩 Why I made this
+## Why I made this
 
 This project was part of my Python wrap-up phase.
 The focus was on building small but realistic tools before moving into backend development with Java.
 
-## 💭 Notes
+## Notes
 
 Not meant to be a full production monitoring system — just a lightweight engineering-style analyzer that demonstrates structured thinking and CLI tool design.
 
