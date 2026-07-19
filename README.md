@@ -45,4 +45,4 @@ The focus was on building small but realistic tools before moving into backend d
 
 Not meant to be a full production monitoring system — just a lightweight engineering-style analyzer that demonstrates structured thinking and CLI tool design.
 
-Built while learning — simple, practical, and always improving. Feel free to upgrade or modify it, Happy coding !
+終わり!
