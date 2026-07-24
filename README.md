@@ -17,6 +17,7 @@ The goal wasn’t to create something huge — just a clean utility that actuall
 * argparse (CLI arguments)
 * collections.Counter (pattern detection)
 * basic file handling
+  
 
 ## How to Run
 
